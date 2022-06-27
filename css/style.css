@@ -21,9 +21,7 @@
    
 
 }
-#carousel .gallery .active{
-    display:block;
-}
+
 #leftarrow{
     font-size: 50px;
     position:absolute;
