@@ -1,0 +1,25 @@
+.gallery-images{
+    height:500px;
+    width:700px;
+    margin:30px auto;
+    object-fit:cover;
+    position:relative;
+
+}
+#carousel .gallery-images{
+    height:100%;
+
+}
+img{
+    height:100%;
+    width:100%;
+}
+.gallery-images .bi{
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%);
+    
+}
+.bi-arrow-right{
+    font-size: 30px;
+}
