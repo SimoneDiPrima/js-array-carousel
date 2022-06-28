@@ -39,3 +39,11 @@
     transform: translateY(-50%);
     color:orangered;
 }
+#thumbnails{
+   height:100px;
+    width:600px;
+}
+#thumbnails img{
+    height:50px;
+    width:9%;
+}
