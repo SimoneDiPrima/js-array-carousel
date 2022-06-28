@@ -42,8 +42,13 @@
 #thumbnails{
    height:100px;
     width:600px;
+    
 }
 #thumbnails img{
     height:50px;
     width:9%;
+    filter: grayscale(1);
+}
+#thumbnails img.active{
+   filter: grayscale(0);
 }
